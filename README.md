@@ -10,7 +10,7 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 
 1.采购硬件，R2S+内存卡（读卡器），推荐CNC加工金属外壳的R2S
 
-2.[下载固件](https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1)，用读卡器连接PC，写入固件
+2.[下载固件](https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1)，用读卡器连接PC，写入固件（个人推荐下载带docker版本）
 
 3.LAN口连接PC，后台地址：192.168.11.1，用户名root 密码 password
 
