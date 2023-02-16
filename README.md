@@ -12,6 +12,8 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 
 2.[下载固件](https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1)，用读卡器连接PC，写入固件（个人推荐下载带docker版本）
 
+*推荐：Docker-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz*
+
 3.LAN口连接PC，后台地址：192.168.11.1，用户名root 密码 password
 
 4.在passwall中添加节点
