@@ -20,3 +20,6 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 ## 图--NC加工金属外壳的R2S
 ![NanoPi R2S Mini Router RK3328 Dual Gigabit Ethernet Ports For OpenWrt5.4  2023 | eBay](https://i.ebayimg.com/images/g/N4QAAOSwxstgUbAe/s-l500.jpg)
 
+
+## 其他教程
+树莓派+openwrt：https://doc.openwrt.cc/2-OpenWrt-Rpi/1-Download/
