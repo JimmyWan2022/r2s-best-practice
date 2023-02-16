@@ -19,6 +19,6 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 4.在passwall中添加节点
 
 5.完成
-
+## 图--NC加工金属外壳的R2S
 ![NanoPi R2S Mini Router RK3328 Dual Gigabit Ethernet Ports For OpenWrt5.4  2023 | eBay](https://i.ebayimg.com/images/g/N4QAAOSwxstgUbAe/s-l500.jpg)
 
