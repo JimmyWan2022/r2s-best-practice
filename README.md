@@ -1,4 +1,4 @@
-# r2s-openwrt 固件安装教程（安装系统时长10分钟）
+# r2s-openwrt 固件安装教程（时长10分钟）
 
 固件下载地址，推荐骷髅头,插件齐全,如Passwall Hello World
 
