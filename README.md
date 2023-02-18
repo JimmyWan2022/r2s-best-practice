@@ -1,5 +1,11 @@
 # r2s-openwrt 固件安装教程（时长10分钟）
 
+### 网速效果图
+100M的小水管，差不多跑满网速
+
+![image](https://github.com/JimmyWan2022/r2s-best-practice/blob/master/%E6%97%81%E8%B7%AF%E7%94%B1%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.assets/%E7%BD%91%E9%80%9F.jpg)
+
+
 固件下载地址，推荐骷髅头,插件齐全,如Passwall Hello World
 
 https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
