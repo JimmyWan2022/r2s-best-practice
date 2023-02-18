@@ -24,4 +24,6 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 
 
 ## 其他教程
+[旁路由最佳实践](https://github.com/JimmyWan2022/r2s-best-practice/blob/master/%E6%97%81%E8%B7%AF%E7%94%B1%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+
 树莓派+openwrt：https://doc.openwrt.cc/2-OpenWrt-Rpi/1-Download/
