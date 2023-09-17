@@ -16,7 +16,7 @@ https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1
 
 1.采购硬件，R2S+内存卡（读卡器），推荐CNC加工金属外壳的R2S
 
-2.[下载固件](https://github.com/DHDAXCW/NanoPi-R2S-rk3328/releases/tag/2023.02.14-Lean1)，用读卡器连接PC，写入固件（个人推荐下载带docker版本）
+2.[下载固件1](https://github.com/anaelorlinski/OpenWrt-NanoPi-R2S-R4S-Builds)，[下载固件2](https://github.com/QiuSimons/YAOF) 用读卡器连接PC，写入固件（个人推荐下载带docker版本）
 
 *推荐：Docker-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz*
 
